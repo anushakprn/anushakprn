@@ -54,16 +54,6 @@
 
 ---
 
-### 🏆 Projects Snapshot
-
-| Project Title | Description |
-|--------------|-------------|
-| 🛍️ **E-Commerce Attribute Prediction** | Boosted prediction accuracy by 40% using **BERT & XLM-RoBERTa** |
-| 🛠️ **IoT Predictive Maintenance** | ML system for elevator fault detection, achieved 96% accuracy |
-| 🏥 **MediCare+ Web App** | Full-stack hospital and patient portal with appointment, records |
-| 📄 **Chat with PDF** | Built NLP-powered tool using **LangChain + Transformers + FAISS** |
-
----
 
 ### 🎓 Certifications
 
