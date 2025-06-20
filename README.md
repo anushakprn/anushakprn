@@ -10,7 +10,7 @@
 ### 🌟 Summary
 
 🎓 **B.Tech in Computer Science – Data Science Specialization**  
-📍 **Mohan Babu University** | CGPA: 9.61  
+📍 **Mohan Babu University** | CGPA: 9.65 
 📜 **Google Advanced Data Analytics Certified**  
 📊 **Power BI & SQL Certified | IBM Data Science Professional Certificate**  
 🧪 Currently researching **BERT vs XLM-RoBERTa for Product Attribute Prediction**  
