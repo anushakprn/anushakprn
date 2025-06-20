@@ -1,12 +1,18 @@
-<!-- 🌟 SUPER ATTRACTIVE HEADER START -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F97316&height=200&section=header&text=👋%20Hey%2C%20I'm%20Anusha%20Kothapalli!&fontSize=35&fontAlign=50&fontColor=ffffff&desc=🚀%20Data%20Science%20Engineer%20|%20ML%20%26%20AI%20Enthusiast%20|%20Always%20Learning&descAlign=50&descSize=18" />
-</p>
+<!-- 🌟 TEXT-ONLY ANIMATED HEADER START -->
+<h1 align="center">
+  <strong>👋 Hey, I'm <span style="color:#F97316;">Anusha Kothapalli</span></strong>
+</h1>
+<h3 align="center">
+  🚀 Data Science Engineer | AI & ML Enthusiast | Power BI Expert
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=🎓+B.Tech+Data+Science+%7C+9.63+CGPA;💡+LangChain%2C+GenAI%2C+Power+BI+%26+Transformers;📊+Google+%26+IBM+Certified+Professional;📌+IEEE+Secretary+%7C+Girlscript+Contributor;🔥+Curious+Coder+%7C+ML+Practitioner" />
+  <a href="https://github.com/anushakprn">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=🎓+B.Tech+Data+Science+%7C+CGPA+9.63;💡+LangChain%2C+GenAI%2C+Transformers%2C+Power+BI;📊+Google+%26+IBM+Certified;📌+IEEE+Secretary+%7C+Girlscript+Contributor;🔥+Curious+Coder+%7C+ML+Explorer" alt="Typing animation" />
+  </a>
 </p>
-<!-- 🌟 SUPER ATTRACTIVE HEADER END -->
+<!-- 🌟 TEXT-ONLY ANIMATED HEADER END -->
+
 
 
 
