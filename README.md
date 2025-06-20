@@ -18,12 +18,7 @@
 
 
 
-### 💡 About Me
 
-🎓 **B.Tech in Computer Science (Data Science)** – Mohan Babu University  
-📍 **Tirupati, India** | CGPA: **9.65**  
-📬 Email: [anushakprn@gmail.com](mailto:anushakprn@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/anusha-kothapalli-b905b7291) | [GitHub](https://github.com/anushakprn)
 
 🧠 Results-driven **Data Science Engineer** with hands-on experience in ML, DL, NLP, and GenAI  
 📝 Published researcher – **BERT vs. RoBERTa** for e-commerce attribute prediction  
