@@ -1,25 +1,31 @@
 <h1 align="center">👩‍💻 Anusha Kothapalli</h1>
 
 <p align="center">
-  <b>🚀 Data Science</b> &nbsp;&nbsp;|&nbsp;&nbsp;
-  <b>🤖 Machine Learning</b> &nbsp;&nbsp;|&nbsp;&nbsp;
-  <b>🧠 NLP</b> &nbsp;&nbsp;|&nbsp;&nbsp;
-  <b>📊 Power BI</b> &nbsp;&nbsp;|&nbsp;&nbsp;
-  <b>🌐 Web Dev</b>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&width=800&color=FFD700&lines=🚀+Data+Science+%7C+🤖+Machine+Learning+%7C+🧠+NLP+%7C+📊+Power+BI+%7C+🌐+Web+Dev;🌟+Passionate+→+🧐+Curious+→+🎨+Creative+→+🎯+Focused;📈+Always+Learning+%7C+🔧+Always+Building+%7C+🚀+Always+Growing" />
 </p>
 
 <p align="center">
-  <b>🌟 Passionate</b> &nbsp;&nbsp;→&nbsp;&nbsp;
-  <b>🧐 Curious</b> &nbsp;&nbsp;→&nbsp;&nbsp;
-  <b>🎨 Creative</b> &nbsp;&nbsp;→&nbsp;&nbsp;
-  <b>🎯 Focused</b>
+  <img src="https://img.shields.io/badge/Data%20Science-FFD700?style=for-the-badge&logo=python&logoColor=black" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-34A853?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP-6F42C1?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Web%20Development-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 </p>
 
-<p align="center">
-  <b>📈 Always Learning</b> &nbsp;&nbsp;|&nbsp;&nbsp;
-  <b>🔧 Always Building</b> &nbsp;&nbsp;|&nbsp;&nbsp;
-  <b>🚀 Always Growing</b>
-</p>
+---
+
+### 💡 About Me
+
+🎓 **B.Tech in Computer Science (Data Science)** – Mohan Babu University  
+📍 **Tirupati, India** | CGPA: **9.65**  
+📬 Email: [anushakprn@gmail.com](mailto:anushakprn@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/anusha-kothapalli-b905b7291) | [GitHub](https://github.com/anushakprn)
+
+🧠 Results-driven **Data Science Engineer** with hands-on experience in ML, DL, NLP, and GenAI  
+📝 Published researcher – **BERT vs. RoBERTa** for e-commerce attribute prediction  
+💼 Former Intern @ The Idea Gen Technologies | IEEE Ananthapuram Subsection  
+🌐 IEEE Computer Society Secretary | GDSC-MBU Coordinator | Girlscript Contributor
+
 
 
 ### 💡 About Me
