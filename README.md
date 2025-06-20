@@ -1,7 +1,9 @@
 <!-- Header Section -->
+<!-- Header Section -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0B8AC9&height=250&section=header&text=Hi%20👋%2C%20I'm%20Anusha%20Kothapalli&fontSize=40&fontAlignY=35&desc=Data%20Science%20Student%20%7C%20AI%20Innovator%20%7C%20ML%20Enthusiast&descAlignY=51&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0B8AC9&height=250&section=header&text=Hi%20👋%2C%20I'm%20Anusha%20Kothapalli&fontSize=40&fontAlignY=35&desc=🚀%20Data%20Science%20%7C%20🤖%20AI%20%7C%20🧠%20ML%20%7C%20NLP%20Enthusiast&descAlignY=51&animation=fadeIn" />
 </p>
+
 
 <h3 align="center">🚀 Data Science | 🤖 Machine Learning | 🤖 AI | 🧠 NLP | 📊 Power BI | 🌐 Web Development</h3>
 
