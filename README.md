@@ -2,9 +2,7 @@
 
 <h3 align="center">🚀 Data Science | 🤖 Machine Learning | 🤖 AI | 🧠 NLP | 📊 Power BI | 🌐 Web Development</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&width=800&color=FFD700&lines=Data+Science+%7C+Machine+Learning+%7C+AI+%7C+NLP+%7C+Power+BI+%7C+Web+Dev;Passionate+%7C+Curious+%7C+Creative+%7C+Focused;Always+Learning+%7C+Always+Building+%7C+Always+Growing" />
-</p>
+
 
 
 ### 💡 About Me
