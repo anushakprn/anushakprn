@@ -1,13 +1,13 @@
-<!-- HEADER -->
 <!-- 🌟 SUPER ATTRACTIVE HEADER START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=1200&center=true&vCenter=true&width=650&lines=👋+Hey%2C+I'm+Anusha+Kothapalli!;🎓+Data+Science+Engineer+%7C+AI+Explorer+%7C+ML+Specialist;🔍+Passionate+about+NLP%2C+LangChain%2C+GenAI%2C+Power+BI;💡+Innovating+through+Data+and+ML+Solutions;🔥+Always+Learning+%7C+Always+Creating" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F97316&height=200&section=header&text=👋%20Hey%2C%20I'm%20Anusha%20Kothapalli!&fontSize=35&fontAlign=50&fontColor=ffffff&desc=🚀%20Data%20Science%20Engineer%20|%20ML%20%26%20AI%20Enthusiast%20|%20Always%20Learning&descAlign=50&descSize=18" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/anushakprn/anushakprn/assets/yourbannerID/custom-banner.gif" alt="Anusha's Banner" width="90%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=🎓+B.Tech+Data+Science+%7C+9.63+CGPA;💡+LangChain%2C+GenAI%2C+Power+BI+%26+Transformers;📊+Google+%26+IBM+Certified+Professional;📌+IEEE+Secretary+%7C+Girlscript+Contributor;🔥+Curious+Coder+%7C+ML+Practitioner" />
 </p>
 <!-- 🌟 SUPER ATTRACTIVE HEADER END -->
+
 
 
 ---
