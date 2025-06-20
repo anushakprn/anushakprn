@@ -43,7 +43,7 @@
 
 - 📧 Email: **anushakprn@gmail.com**  
 - 💼 LinkedIn: [linkedin.com/in/anushakprn](https://www.linkedin.com/in/anushakprn/)  
-- 🌐 Portfolio: [github.com/anushakprn](https://github.com/anushakprn)
+- 
 
 ---
 
