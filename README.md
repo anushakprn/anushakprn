@@ -1,13 +1,25 @@
-## 👋 Hey there, I'm Anusha Kothapalli  
-### 🚀 Data Science | Machine Learning | NLP | Power BI | Web Development
+<h1 align="center">👩‍💻 Anusha Kothapalli</h1>
 
-🌟 Passionate | Curious | Creative | Focused  
-💡 Google & IBM Certified | IEEE Secretary  
-📈 Always Learning. Always Building. Always Growing.
 <p align="center">
-  <img src="https://github.com/AnushaAssetsRepo/typing-no-cursor.gif" alt="Typing Animation without Cursor" width="600" />
+  <b>🚀 Data Science</b> &nbsp;&nbsp;|&nbsp;&nbsp;
+  <b>🤖 Machine Learning</b> &nbsp;&nbsp;|&nbsp;&nbsp;
+  <b>🧠 NLP</b> &nbsp;&nbsp;|&nbsp;&nbsp;
+  <b>📊 Power BI</b> &nbsp;&nbsp;|&nbsp;&nbsp;
+  <b>🌐 Web Dev</b>
 </p>
 
+<p align="center">
+  <b>🌟 Passionate</b> &nbsp;&nbsp;→&nbsp;&nbsp;
+  <b>🧐 Curious</b> &nbsp;&nbsp;→&nbsp;&nbsp;
+  <b>🎨 Creative</b> &nbsp;&nbsp;→&nbsp;&nbsp;
+  <b>🎯 Focused</b>
+</p>
+
+<p align="center">
+  <b>📈 Always Learning</b> &nbsp;&nbsp;|&nbsp;&nbsp;
+  <b>🔧 Always Building</b> &nbsp;&nbsp;|&nbsp;&nbsp;
+  <b>🚀 Always Growing</b>
+</p>
 
 
 ### 💡 About Me
