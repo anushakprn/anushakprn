@@ -1,14 +1,19 @@
-## Hi 👋, I'm Anusha Kothapalli  
-### A passionate Data Science Engineer
+## 👋 Hey there, I'm Anusha Kothapalli  
+### 🚀 Data Science | Machine Learning | NLP | Power BI | Web Development
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFD700&width=480&lines=Machine+Learning+%7C+AI+%7C+NLP;Power+BI+%7C+Python+%7C+LangChain;Always+Learning+%7C+Always+Building)
+🌟 Passionate | Curious | Creative | Focused  
+💡 Google & IBM Certified | IEEE Secretary  
+📈 Always Learning. Always Building. Always Growing.
+<p align="center">
+  <img src="https://github.com/AnushaAssetsRepo/typing-no-cursor.gif" alt="Typing Animation without Cursor" width="600" />
+</p>
 
 
 
 ### 💡 About Me
 
 🎓 **B.Tech in Computer Science (Data Science)** – Mohan Babu University  
-📍 **Tirupati, India** | CGPA: **9.63**  
+📍 **Tirupati, India** | CGPA: **9.65**  
 📬 Email: [anushakprn@gmail.com](mailto:anushakprn@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/anusha-kothapalli-b905b7291) | [GitHub](https://github.com/anushakprn)
 
