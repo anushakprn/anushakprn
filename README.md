@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Anusha Kothapalli  
 ### A passionate Data Science Engineer
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F97316&width=480&lines=Machine+Learning+%7C+AI+%7C+NLP;Power+BI+%7C+Python+%7C+LangChain;Always+Learning+%7C+Always+Building)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFD700&width=480&lines=Machine+Learning+%7C+AI+%7C+NLP;Power+BI+%7C+Python+%7C+LangChain;Always+Learning+%7C+Always+Building)
 
 
 
