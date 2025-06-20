@@ -1,17 +1,12 @@
-<!-- 🌟 TEXT-ONLY ANIMATED HEADER START -->
-<h1 align="center">
-  <strong>👋 Hey, I'm <span style="color:#F97316;">Anusha Kothapalli</span></strong>
-</h1>
-<h3 align="center">
-  🚀 Data Science Engineer | AI & ML Enthusiast | Power BI Expert
-</h3>
+<h1 align="center">Hi 👋, I'm Anusha Kothapalli</h1>
+<h3 align="center">🚀 A Passionate Data Science Engineer | ML Enthusiast | NLP Explorer</h3>
 
 <p align="center">
   <a href="https://github.com/anushakprn">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=🎓+B.Tech+Data+Science+%7C+CGPA+9.63;💡+LangChain%2C+GenAI%2C+Transformers%2C+Power+BI;📊+Google+%26+IBM+Certified;📌+IEEE+Secretary+%7C+Girlscript+Contributor;🔥+Curious+Coder+%7C+ML+Explorer" alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&color=F97316&width=500&lines=👩‍💻+Data+Science+Engineer+%7C+B.Tech+9.63+CGPA;🔍+ML+%7C+NLP+%7C+LangChain+%7C+GenAI+%7C+Power+BI;📜+Published+Research+on+BERT+vs+XLM-RoBERTa;👩‍🎓+Google+%26+IBM+Certified+%7C+IEEE+Secretary;🔥+Always+Curious+%7C+Always+Learning" alt="Typing SVG" />
   </a>
 </p>
-<!-- 🌟 TEXT-ONLY ANIMATED HEADER END -->
+
 
 
 
