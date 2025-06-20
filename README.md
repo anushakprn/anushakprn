@@ -1,6 +1,10 @@
-<h1 align="center">👩‍💻 Anusha Kothapalli</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=F97316&center=true&width=500&lines=👩‍💻+Anusha+Kothapalli" />
+</p>
 
 <h3 align="center">🚀 Data Science | 🤖 Machine Learning | 🤖 AI | 🧠 NLP | 📊 Power BI | 🌐 Web Development</h3>
+
 
 
 
