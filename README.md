@@ -1,17 +1,9 @@
-<h1 align="center">Hi 👋, I'm Anusha Kothapalli</h1>
-<h3 align="center">🚀 A Passionate Data Science Engineer | ML Enthusiast | NLP Explorer</h3>
+## Hi 👋, I'm Anusha Kothapalli  
+### A passionate Data Science Engineer
 
-<p align="center">
-  <a href="https://github.com/anushakprn">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&color=F97316&width=500&lines=👩‍💻+Data+Science+Engineer+%7C+B.Tech+9.63+CGPA;🔍+ML+%7C+NLP+%7C+LangChain+%7C+GenAI+%7C+Power+BI;📜+Published+Research+on+BERT+vs+XLM-RoBERTa;👩‍🎓+Google+%26+IBM+Certified+%7C+IEEE+Secretary;🔥+Always+Curious+%7C+Always+Learning" alt="Typing SVG" />
-  </a>
-</p>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F97316&width=480&lines=Machine+Learning+%7C+AI+%7C+NLP;Power+BI+%7C+Python+%7C+LangChain;Always+Learning+%7C+Always+Building)
 
 
-
-
-
----
 
 ### 💡 About Me
 
