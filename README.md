@@ -1,11 +1,14 @@
 <!-- HEADER -->
+<!-- 🌟 SUPER ATTRACTIVE HEADER START -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF6C37&height=230&section=header&text=Hi%20👋%2C%20I'm%20Anusha%20Kothapalli&fontSize=38&fontAlignY=40&desc=Data%20Science%20Engineer%20%7C%20ML%20%26%20AI%20Enthusiast%20%7C%20Always%20Learning%20🚀&descAlignY=60&animation=fadeIn" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=1200&center=true&vCenter=true&width=650&lines=👋+Hey%2C+I'm+Anusha+Kothapalli!;🎓+Data+Science+Engineer+%7C+AI+Explorer+%7C+ML+Specialist;🔍+Passionate+about+NLP%2C+LangChain%2C+GenAI%2C+Power+BI;💡+Innovating+through+Data+and+ML+Solutions;🔥+Always+Learning+%7C+Always+Creating" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F97316&width=600&center=true&vCenter=true&lines=Data+Scientist+%7C+ML+%7C+Power+BI+%7C+LangChain;Google+%7C+IBM+Certified;Published+Research+%7C+BERT+vs+XLM-RoBERTa;Always+Curious%2C+Always+Coding+💻" />
+  <img src="https://github.com/anushakprn/anushakprn/assets/yourbannerID/custom-banner.gif" alt="Anusha's Banner" width="90%" />
 </p>
+<!-- 🌟 SUPER ATTRACTIVE HEADER END -->
+
 
 ---
 
