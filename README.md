@@ -3,10 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0B8AC9&height=250&section=header&text=Hi%20👋%2C%20I'm%20Anusha%20Kothapalli&fontSize=40&fontAlignY=35&desc=Data%20Science%20Student%20%7C%20AI%20Innovator%20%7C%20ML%20Enthusiast&descAlignY=51&animation=fadeIn" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F97316&width=600&lines=Google+Advanced+Analytics+Certified;Power+BI+%7C+Python+%7C+ML+%7C+SQL+%7C+LangChain;Research+on+BERT+vs+XLM-RoBERTa;Always+Building+%26+Learning+🚀" />
-</p>
-
+<h3 align="center">🚀 Data Science | 🤖 Machine Learning | 🤖 AI | 🧠 NLP | 📊 Power BI | 🌐 Web Development</h3>
 
 
 ### 💡 About Me
