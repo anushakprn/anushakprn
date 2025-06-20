@@ -18,13 +18,6 @@
 
 
 
-
-
-🧠 Results-driven **Data Science Engineer** with hands-on experience in ML, DL, NLP, and GenAI  
-📝 Published researcher – **BERT vs. RoBERTa** for e-commerce attribute prediction  
-💼 Former Intern @ The Idea Gen Technologies | IEEE Ananthapuram Subsection  
-🌐 IEEE Computer Society Secretary | GDSC-MBU Coordinator | Girlscript Contributor
-
 ---
 
 ### 🛠️ My Toolbox
