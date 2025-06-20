@@ -5,7 +5,6 @@
 </p>
 
 
-<h3 align="center">🚀 Data Science | 🤖 Machine Learning | 🤖 AI | 🧠 NLP | 📊 Power BI | 🌐 Web Development</h3>
 
 
 ### 💡 About Me
