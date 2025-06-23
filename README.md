@@ -1,5 +1,8 @@
 <!-- Header Section -->
-<-- Header Section --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0B8AC9&height=250&section=header&text=Hi%20👋%2C%20I'm%20Anusha%20Kothapalli&fontSize=40&fontAlignY=35&desc=🚀%20Data%20Science%20%7C%20🤖%20AI%20%7C%20🧠%20ML%20%7C%20NLP%20Enthusiast&descAlignY=51&animation=fadeIn" /> </p> <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0B8AC9&center=true&vCenter=true&width=1000&lines=✨%20Data%20Science%20Engineer%20with%20a%20Passion%20for%20AI%20and%20Innovation;🚀%20Transforming%20Ideas%20into%20Impactful%20Solutions;📊%20Turning%20Data%20into%20Decisions%20with%20ML%2C%20NLP%20%26%20BI;🔍%20Let%E2%80%99s%20build%20something%20awesome%20together!" alt="Typing SVG" /> </div>
+<!-- Header Section -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0B8AC9&height=250&section=header&text=Hi%20👋%2C%20I'm%20Anusha%20Kothapalli&fontSize=40&fontAlignY=35&desc=🚀%20Data%20Science%20%7C%20🤖%20AI%20%7C%20🧠%20ML%20%7C%20NLP%20Enthusiast&descAlignY=51&animation=fadeIn" />
+</p>
 
 
 ### 💡 About Me
