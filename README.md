@@ -5,17 +5,19 @@
 </p>
 
 
-### 💡 About Me
+<h3>💡 About Me</h3>
 
-🎓 **B.Tech in Computer Science (Data Science)** – Mohan Babu University  
-📍 **Tirupati, India** | CGPA: **9.65**  
-📬 Email: [anushakprn@gmail.com](mailto:anushakprn@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/anusha-kothapalli-b905b7291) | [GitHub](https://github.com/anushakprn)
+<p>🎓 <strong>B.Tech in Computer Science (Data Science)</strong> – Mohan Babu University</p>
+<p>📍 <strong>Tirupati, India</strong> | CGPA: <strong>9.65</strong></p>
+<p>📬 Email: <a href="mailto:anushakprn@gmail.com">anushakprn@gmail.com</a></p>
+<p>🔗 <a href="https://www.linkedin.com/in/anusha-kothapalli-b905b7291" target="_blank">LinkedIn</a> | 
+<a href="https://github.com/anushakprn" target="_blank">GitHub</a></p>
 
-🧠 Results-driven **Data Science Engineer** with hands-on experience in ML, DL, NLP, and GenAI  
-📝 Published researcher – **BERT vs. RoBERTa** for e-commerce attribute prediction  
-💼 Former Intern @ The Idea Gen Technologies | IEEE Ananthapuram Subsection  
-🌐 IEEE Computer Society Secretary | GDSC-MBU Coordinator | Girlscript Contributor
+<p>🧠 Results-driven <strong>Data Science Engineer</strong> with hands-on experience in ML, DL, NLP, and GenAI</p>
+<p>📝 Published researcher – <strong>BERT vs. RoBERTa</strong> for e-commerce attribute prediction</p>
+<p>💼 Former Intern @ The Idea Gen Technologies | IEEE Ananthapuram Subsection</p>
+<p>🌐 IEEE Computer Society Secretary | GDSC-MBU Coordinator | Girlscript Contributor</p>
+
 
 
 
