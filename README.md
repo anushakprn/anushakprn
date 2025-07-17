@@ -1,37 +1,85 @@
 <!-- Header Section -->
+<!-- Header Section -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0B8AC9&height=250&section=header&text=Hi%20👋%2C%20I'm%20Anusha%20Kothapalli&fontSize=40&fontAlignY=35&desc=🚀%20Data%20Science%20%7C%20🤖%20AI%20%7C%20🧠%20ML%20%7C%20NLP%20Enthusiast&descAlignY=51&animation=fadeIn&fontColor=ffffff&descColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0B8AC9&height=250&section=header&text=Hi%20👋%2C%20I'm%20Anusha%20Kothapalli&fontSize=40&fontAlignY=35&desc=🚀%20Data%20Science%20%7C%20🤖%20AI%20%7C%20🧠%20ML%20%7C%20NLP%20Enthusiast&descAlignY=51&animation=fadeIn" />
 </p>
 
-<h1 align="center">⚡ Data Science Engineer | AI Researcher | Tech Community Leader</h1>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/anusha-kothapalli-b905b7291" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/anushakprn" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:anushakprn@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
+<h3>💡 About Me</h3>
 
----
+<p>🎓 <strong>B.Tech in Computer Science (Data Science)</strong> – Mohan Babu University</p>
+<p>📍 <strong>Tirupati, India</strong> | CGPA: <strong>9.65</strong></p>
+<p>📬 Email: <a href="mailto:anushakprn@gmail.com">anushakprn@gmail.com</a></p>
+<p>🔗 <a href="https://www.linkedin.com/in/anusha-kothapalli-b905b7291" target="_blank">LinkedIn</a> | 
+<a href="https://github.com/anushakprn" target="_blank">GitHub</a></p>
 
-### 🎯 Professional Snapshot
+<p>🧠 Results-driven <strong>Data Science Engineer</strong> with hands-on experience in ML, DL, NLP, and GenAI</p>
+<p>📝 Published researcher – <strong>BERT vs. RoBERTa</strong> for e-commerce attribute prediction</p>
+<p>💼 Former Intern @ The Idea Gen Technologies | IEEE Ananthapuram Subsection</p>
+<p>🌐 IEEE Computer Society Secretary | GDSC-MBU Coordinator | Girlscript Contributor</p>
 
-✔ **B.Tech in Computer Science (Data Science)** @ Mohan Babu University (CGPA: 9.65)  
-✔ **Published Researcher** in NLP (BERT vs. RoBERTa comparative study)  
-✔ **3+ Internships** in ML/AI @ The Idea Gen Technologies & IEEE  
-✔ **Technical Leader** @ IEEE Computer Society & GDSC-MBU  
-✔ **5+ Professional Certifications** from Google & IBM  
+
+
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ My Toolbox
 
-#### 🔍 Core Competencies
-```diff
-+ Machine Learning | Deep Learning | Natural Language Processing 
-+ Generative AI | Data Analytics | Predictive Modeling
+#### 💻 Languages & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,sql" />
+</p>
+
+#### 🧠 Machine Learning & AI
+<p align="center">
+  <img src="https://img.shields.io/badge/-PyTorch-E34F26?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/-LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+</p>
+
+#### 📊 Data Analysis & BI
+<p align="center">
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Matplotlib-000000?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</p>
+
+#### 🌐 Web & API Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,bootstrap,postman" />
+  <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+</p>
+
+#### 🧰 IDEs & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=github,git,vscode,androidstudio,aws" />
+</p>
+
+---
+
+### 📜 Certifications
+
+🎓 **Google Advanced Data Analytics Certificate**  
+🎓 **IBM Python for Data Science and AI**  
+🎓 **Google IT Automation with Python**  
+🎓 **Google Data Analytics**  
+🎓 **AWS Solution Architecture Job Simulation**
+
+---
+
+### 🏅 Achievements & Roles
+
+- 🧾 **Published Research Paper**: BERT vs. RoBERTa for e-commerce attribute prediction  
+- 🎙️ **IEEE Secretary** – Led multiple technical sessions  
+- 🤝 **GDSC-MBU Coordinator** – Mentored peers and organized ML workshops  
+- 💻 **Girlscript Summer of Code Contributor & Campus Ambassador**  
+- 💼 **ML Intern** – NLP & Predictive Maintenance models with high accuracy
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F97316&height=120&section=footer"/>
+</p>
