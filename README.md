@@ -8,7 +8,7 @@
 <h3>💡 About Me</h3>
 
 <p>🎓 <strong>B.Tech in Computer Science (Data Science)</strong> – Mohan Babu University</p>
-<p>📍 <strong>Tirupati, India</strong> | CGPA: <strong>9.69</strong></p>
+<p>📍 <strong>Tirupati, India</strong> | CGPA: <strong>9.62 </strong></p>
 <p>📬 Email: <a href="mailto:anushakprn@gmail.com">anushakprn@gmail.com</a></p>
 <p>🔗 <a href="https://www.linkedin.com/in/anusha-kothapalli-b905b7291" target="_blank">LinkedIn</a> | 
 <a href="https://github.com/anushakprn" target="_blank">GitHub</a></p>
